@@ -4,6 +4,8 @@
 
 > feed entropy data to linux from camera
 
+![](assets/entropy-camera.png)
+
 Please ★ this repo if you found it useful ★ ★ ★
 
 
